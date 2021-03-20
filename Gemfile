@@ -51,3 +51,5 @@ end
 
 gem 'dotenv-rails'
 
+gem 'faker'
+
